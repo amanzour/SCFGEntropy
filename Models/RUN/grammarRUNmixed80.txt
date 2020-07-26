@@ -1,0 +1,9 @@
+<Start>:a<Start>  0.5167
+<Start>:<T>a    0.20979553
+<Start>:a<Start>b  0.21369129
+<Start>:<T>a<Start>b  0.01916891
+<T>:<T>a  0.4739
+<T>:a<Start>b  0.4827
+<T>:<T>a<Start>b  0.0433
+<Start>:a   0.0406
+#

@@ -1,0 +1,8 @@
+<Start>:a     0.499
+<Start>:a<Start>    0.499
+<Start>:a<H>b<Start>  0.001
+<Start>:a<H>b   0.001
+<H>:a<H>b   0.103
+<H>:a<Y>b   0.897
+<Y>:a<Start>b   1
+#

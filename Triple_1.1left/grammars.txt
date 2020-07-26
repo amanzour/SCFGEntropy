@@ -1,0 +1,16 @@
+<Start>:a<F>b<Start> 1
+<Start>:a<Start>  2
+<Start>:a<F>b  3
+<Start>:a  4
+<F>:a<F>b  5
+<F>:a<F>b<Start>  6
+<F>:a<Start>  7
+#
+<Start>:<Start>a<F>b 1
+<Start>:<Start>a  2
+<Start>:a<F>b  3
+<Start>:a  4
+<F>:a<F>b  5
+<F>:<Start>a<F>b  6
+<F>:<Start>a  7
+#

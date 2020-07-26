@@ -1,0 +1,1116 @@
+Sender: LSF System <lsfadmin@c8-17>
+Subject: Job 228296: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-17>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:10:02 2011
+Results reported at Tue Sep 20 17:10:03 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-24>
+Subject: Job 228297: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-24>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:10:23 2011
+Results reported at Tue Sep 20 17:10:23 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c8-17>
+Subject: Job 228300: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-17>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:14:03 2011
+Results reported at Tue Sep 20 17:14:05 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-24>
+Subject: Job 228301: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-24>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:14:29 2011
+Results reported at Tue Sep 20 17:14:29 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c8-17>
+Subject: Job 228302: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-17>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:21:07 2011
+Results reported at Tue Sep 20 17:21:09 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-24>
+Subject: Job 228303: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-24>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:21:27 2011
+Results reported at Tue Sep 20 17:21:27 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c8-17>
+Subject: Job 228304: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-17>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:22:44 2011
+Results reported at Tue Sep 20 17:22:44 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c8-17>
+Subject: Job 228305: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-17>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:40:37 2011
+Results reported at Tue Sep 20 17:40:37 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-24>
+Subject: Job 228306: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-24>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:41:24 2011
+Results reported at Tue Sep 20 17:41:24 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.07 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c8-17>
+Subject: Job 228307: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-17>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:45:40 2011
+Results reported at Tue Sep 20 17:45:40 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS: The stderr output (if any) follows:
+
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta100.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta101.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta102.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta103.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta104.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta105.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta106.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta107.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta108.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta109.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta10.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta110.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta111.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta112.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta113.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta114.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta115.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta116.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta117.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta118.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta119.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta11.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta120.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta121.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta122.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta123.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta124.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta125.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta126.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta127.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta128.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta129.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta12.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta130.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta131.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta132.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta133.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta134.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta135.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta13.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta14.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta15.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta16.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta17.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta18.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta19.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta1.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta20.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta21.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta22.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta23.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta24.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta25.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta26.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta27.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta28.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta29.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta2.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta30.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta31.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta32.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta33.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta34.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta35.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta36.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta37.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta38.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta39.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta3.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta40.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta41.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta42.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta43.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta44.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta45.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta46.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta47.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta48.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta49.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta4.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta50.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta51.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta52.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta53.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta54.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta55.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta56.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta57.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta58.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta59.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta5.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta60.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta61.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta62.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta63.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta64.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta65.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta66.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta67.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta68.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta69.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta6.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta70.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta71.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta72.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta73.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta74.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta75.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta76.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta77.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta78.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta79.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta7.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta80.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta81.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta82.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta83.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta84.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta85.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta86.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta87.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta88.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta89.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta8.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta90.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta91.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta92.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta93.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta94.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta95.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta96.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta97.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta98.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta99.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta9.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/testing_result: No such file or directory
+
+
+PS:
+
+Fail to open stderr file test.err: Stale NFS file handle.
+The stderr output is included in this report.
+
+Sender: LSF System <lsfadmin@c9-24>
+Subject: Job 228308: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-24>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:45:55 2011
+Results reported at Tue Sep 20 17:46:51 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time   :     53.75 sec.
+    Max Memory :         5 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c8-17>
+Subject: Job 228309: <sh batchCase1BPEntropymiRNA.sh> Exited
+
+Job <sh batchCase1BPEntropymiRNA.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-17>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Tue Sep 20 17:48:39 2011
+Results reported at Tue Sep 20 17:48:39 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchCase1BPEntropymiRNA.sh
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      0.08 sec.
+    Max Memory :         1 MB
+    Max Swap   :        11 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+
+
+PS: The stderr output (if any) follows:
+
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta100.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta101.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta102.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta103.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta104.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta105.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta106.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta107.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta108.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta109.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta10.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta110.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta111.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta112.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta113.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta114.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta115.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta116.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta117.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta118.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta119.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta11.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta120.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta121.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta122.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta123.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta124.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta125.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta126.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta127.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta128.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta129.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta12.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta130.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta131.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta132.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta133.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta134.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta135.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta13.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta14.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta15.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta16.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta17.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta18.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta19.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta1.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta20.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta21.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta22.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta23.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta24.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta25.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta26.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta27.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta28.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta29.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta2.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta30.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta31.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta32.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta33.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta34.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta35.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta36.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta37.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta38.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta39.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta3.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta40.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta41.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta42.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta43.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta44.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta45.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta46.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta47.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta48.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta49.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta4.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta50.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta51.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta52.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta53.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta54.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta55.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta56.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta57.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta58.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta59.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta5.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta60.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta61.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta62.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta63.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta64.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta65.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta66.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta67.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta68.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta69.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta6.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta70.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta71.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta72.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta73.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta74.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta75.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta76.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta77.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta78.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta79.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta7.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta80.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta81.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta82.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta83.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta84.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta85.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta86.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta87.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta88.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta89.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta8.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta90.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta91.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta92.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta93.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta94.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta95.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta96.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta97.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta98.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta99.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/miRNA.fasta9.fa_result: No such file or directory
+batchCase1BPEntropymiRNA.sh: line 7: testing/FreymiRNA/FreymiRNA/testing_result: No such file or directory
+
+
+PS:
+
+Fail to open stderr file test.err: Stale NFS file handle.
+The stderr output is included in this report.
+
+Sender: LSF System <lsfadmin@c9-9>
+Subject: Job 228339: <sh batchcase3bpentropytrna.sh> Exited
+
+Job <sh batchcase3bpentropytrna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-9>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:06:51 2011
+Results reported at Wed Sep 21 00:12:03 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase3bpentropytrna.sh
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time   :    311.28 sec.
+    Max Memory :         5 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-7>
+Subject: Job 228337: <sh batchcase1bpentropytrna.sh> Exited
+
+Job <sh batchcase1bpentropytrna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-7>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:04:23 2011
+Results reported at Wed Sep 21 00:12:07 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase1bpentropytrna.sh
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time   :    463.36 sec.
+    Max Memory :         5 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-2>
+Subject: Job 228336: <sh batchcase3bpentropymirna.sh> Exited
+
+Job <sh batchcase3bpentropymirna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-2>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:03:12 2011
+Results reported at Wed Sep 21 00:12:11 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase3bpentropymirna.sh
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time   :    538.64 sec.
+    Max Memory :         6 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c8-12>
+Subject: Job 228335: <sh batchcase1bpentropymirna.sh> Exited
+
+Job <sh batchcase1bpentropymirna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c8-12>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:01:15 2011
+Results reported at Wed Sep 21 00:12:16 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase1bpentropymirna.sh
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time   :    659.64 sec.
+    Max Memory :         6 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-5>
+Subject: Job 228338: <sh batchcase2bpentropytrna.sh> Exited
+
+Job <sh batchcase2bpentropytrna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-5>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:05:40 2011
+Results reported at Wed Sep 21 00:12:20 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase2bpentropytrna.sh
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time   :    399.82 sec.
+    Max Memory :         5 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-21>
+Subject: Job 228344: <sh batchcase2bpentropymirna.sh> Done
+
+Job <sh batchcase2bpentropymirna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-21>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:18:40 2011
+Results reported at Wed Sep 21 01:30:42 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase2bpentropymirna.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   4317.63 sec.
+    Max Memory :         6 MB
+    Max Swap   :       120 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c10-21>
+Subject: Job 228343: <sh batchcase1bpentropymirna.sh> Done
+
+Job <sh batchcase1bpentropymirna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c10-21>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:18:35 2011
+Results reported at Wed Sep 21 01:30:54 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase1bpentropymirna.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   4333.98 sec.
+    Max Memory :         6 MB
+    Max Swap   :       120 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-28>
+Subject: Job 228345: <sh batchcase3bpentropymirna.sh> Done
+
+Job <sh batchcase3bpentropymirna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-28>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:18:46 2011
+Results reported at Wed Sep 21 01:31:58 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase3bpentropymirna.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   4388.23 sec.
+    Max Memory :         6 MB
+    Max Swap   :       120 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-7>
+Subject: Job 228341: <sh batchcase2bpentropytrna.sh> Done
+
+Job <sh batchcase2bpentropytrna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-7>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:18:15 2011
+Results reported at Wed Sep 21 03:23:51 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase2bpentropytrna.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :  11119.16 sec.
+    Max Memory :         6 MB
+    Max Swap   :       164 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-2>
+Subject: Job 228342: <sh batchcase1bpentropytrna.sh> Done
+
+Job <sh batchcase1bpentropytrna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-2>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:18:25 2011
+Results reported at Wed Sep 21 03:24:31 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase1bpentropytrna.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :  11150.64 sec.
+    Max Memory :         5 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@c9-5>
+Subject: Job 228340: <sh batchcase3bpentropytrna.sh> Done
+
+Job <sh batchcase3bpentropytrna.sh> was submitted from host <c7-1> by user <amanzour>.
+Job was executed on host(s) <c9-5>, in queue <mri-q64-30d>, as user <amanzour>.
+</iob_home/lclab/amanzour> was used as the home directory.
+</iob_home/lclab/amanzour/Triple_1.0> was used as the working directory.
+Started at Wed Sep 21 00:18:10 2011
+Results reported at Wed Sep 21 03:26:55 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+sh batchcase3bpentropytrna.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :  11310.63 sec.
+    Max Memory :         6 MB
+    Max Swap   :       119 MB
+
+    Max Processes  :         4
+    Max Threads    :         4
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <test.err> for stderr output of this job.
+

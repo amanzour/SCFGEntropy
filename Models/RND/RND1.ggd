@@ -1,0 +1,77 @@
+TYPE = GRAMMAR
+
+SYMBOLS = WORDS
+
+START = S
+
+RULES =
+
+S -> r1A ; S -> r1C ; S -> r1G ; S -> r1U ;
+
+S -> r2A S ; S -> r2C S ; S -> r2G S ; S -> r2U S ;
+
+S -> S r3A ; S -> S r3C ; S -> S r3G ; S -> S r3U ;
+
+S -> r4AA S A S ; S -> r4AC S C S ; S -> r4AG S G S ; S -> r4AU S U S ;
+S -> r4CA S A S ; S -> r4CC S C S ; S -> r4CG S G S ; S -> r4CU S U S ;
+S -> r4GA S A S ; S -> r4GC S C S ; S -> r4GG S G S ; S -> r4GU S U S ;
+S -> r4UA S A S ; S -> r4UC S C S ; S -> r4UG S G S ; S -> r4UU S U S ;
+
+S -> S r5AA S A ; S -> S r5AC S C ; S -> S r5AG S G ; S -> S r5AU S U ;
+S -> S r5CA S A ; S -> S r5CC S C ; S -> S r5CG S G ; S -> S r5CU S U ;
+S -> S r5GA S A ; S -> S r5GC S C ; S -> S r5GG S G ; S -> S r5GU S U ;
+S -> S r5UA S A ; S -> S r5UC S C ; S -> S r5UG S G ; S -> S r5UU S U ;
+
+S -> r6AA S A ; S -> r6AC S C ; S -> r6AG S G ; S -> r6AU S U ;
+S -> r6CA S A ; S -> r6CC S C ; S -> r6CG S G ; S -> r6CU S U ;
+S -> r6GA S A ; S -> r6GC S C ; S -> r6GG S G ; S -> r6GU S U ;
+S -> r6UA S A ; S -> r6UC S C ; S -> r6UG S G ; S -> r6UU S U ;
+
+WEIGHTS =
+
+r1A 0.04166668 r1C 0.04166668 r1G 0.04166668 r1U 0.04166668
+
+r2A 0.04166668 r2C 0.04166668 r2G 0.04166668 r2U 0.04166668 
+
+r3A 0.04166668 r3C 0.04166668 r3G 0.04166668 r3U 0.04166668
+
+r4AA 0.00001 r4AC 0.00001 r4AG 0.00001 r4AU 0.02833334
+r4CA 0.00001 r4CC 0.00001 r4CG 0.04166668 r4CU 0.00001
+r4GA 0.00001 r4GC 0.04166668 r4GG 0.00001 r4GU 0.01333334
+r4UA 0.02833334 r4UC 0.00001 r4UG 0.01333334 r4UU 0.00001
+
+r5AA 0.00001 r5AC 0.00001 r5AG 0.00001 r5AU 0.02833334
+r5CA 0.00001 r5CC 0.00001 r5CG 0.04166668 r5CU 0.00001
+r5GA 0.00001 r5GC 0.04166668 r5GG 0.00001 r5GU 0.01333334
+r5UA 0.02833334 r5UC 0.00001 r5UG 0.01333334 r5UU 0.00001
+
+r6AA 0.00001 r6AC 0.00001 r6AG 0.00001 r6AU 0.02833334
+r6CA 0.00001 r6CC 0.00001 r6CG 0.04166668 r6CU 0.00001
+r6GA 0.00001 r6GC 0.04166668 r6GG 0.00001 r6GU 0.01333334
+r6UA 0.02833334 r6UC 0.00001 r6UG 0.01333334 r6UU 0.00001
+
+A 1.0 C 1.0 G 1.0 U 1.0
+
+ALIASES =
+
+r1A = A r1C = C r1G = G r1U = U
+
+r2A = A r2C = C r2G = G r2U = U
+
+r3A = A r3C = C r3G = G r3U = U
+
+r4AA = A r4AC = A r4AG = A r4AU = A
+r4CA = C r4CC = C r4CG = C r4CU = C
+r4GA = G r4GC = G r4GG = G r4GU = G
+r4UA = U r4UC = U r4UG = U r4UU = U
+
+r5AA = A r5AC = A r5AG = A r5AU = A
+r5CA = C r5CC = C r5CG = C r5CU = C
+r5GA = G r5GC = G r5GG = G r5GU = G
+r5UA = U r5UC = U r5UG = U r5UU = U
+
+r6AA = A r6AC = A r6AG = A r6AU = A
+r6CA = C r6CC = C r6CG = C r6CU = C
+r6GA = G r6GC = G r6GG = G r6GU = G
+r6UA = U r6UC = U r6UG = U r6UU = U
+

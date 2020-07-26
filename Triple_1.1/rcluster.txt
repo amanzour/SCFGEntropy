@@ -1,0 +1,3 @@
+
+bsub -q mri-q64-30d -o test.out -e test.err sh batch.sh
+bsub -q rcc-q8-24d -o test.out -e test.err sh batch.sh

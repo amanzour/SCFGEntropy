@@ -1,0 +1,1 @@
+bsub -q mri-q64-30d -o test.out -e test.err

@@ -1,0 +1,5 @@
+all : Triple
+Triple : ncrna.cpp entropy.cpp fasta.cpp insideoutside.cpp scanner.cpp readgrammar.cpp scidouble.cpp
+	g++ -o Triple ncrna.cpp entropy.cpp fasta.cpp insideoutside.cpp scanner.cpp readgrammar.cpp scidouble.cpp
+clean:
+	rm Triple

@@ -1,0 +1,54 @@
+compile:
+
+./make
+
+﻿
+Parameters:
+
+-s seqfile_name (required)
+-g grammarfile_name (required)
+-w window_size (default window size is the length of the whole sequence)
+-b base_pairmatrix_file_name (required)
+-p output_file_for_storing_all_pij
+-a indicate test all sequences in the file (without it, program just tests the first sequence)
+-t threshold set the threshold for outputting pij matrix (-p should be specified if -t is specified)
+-h get help
+
+base pair matrix
+
+base pair matrix is a 5*5 matrix. Each element is a real number. The order is –ACGU. Two elements in the same row are separated  by space. Here is an example. 
+
+ 0 0.0000 0.0000 0.0000 0.0000
+ 0.0000 0.00000 0.00000 0.00000 0.17
+ 0.0000 0.00000 0.00000 0.25  0.00000
+ 0.0000 0.00000  0.25   0.00000 0.08 
+ 0.0000 0.17 0.00000 0.08 0.00000
+
+grammar
+Non-terminals should be represented like <string_without_space> and <Start> is the starting non-terminal. Colon denotes "->"
+Currently, 6 types of rules are acceptable that are given as follows,
+<X>->a
+<X>->a<Y>
+<X>-><Y>a
+<X>->a<Y>b 
+<X>->a<Y>b<Z>
+<X>-><Y>a<Z>b
+in the above rules, <X>, <Y> and <Z> are non-terminals while a and b are terminals.
+The probabilities of corresponding rules are given the same line and separated by at least one space
+In the end of the grammar file, there should be a #
+Note that there is no space in the rule part. 
+
+Here is a completed example
+
+<Start>:a     0.499<Start>:a<Start>    0.499<Start>:a<H>b<Start>  0.001<Start>:a<H>b   0.001<H>:a<H>b   0.103<H>:a<Y>b   0.897<Y>:a<Start>b   1#
+
+Examples of commands
+./ncRNA  -s seq1_out.txt -g grammartest.txt -b oribpmatrix.txt -p pijtest.txt
+The above command will calculate entropy of the first sequence in seq1_out.txt with grammar in  grammartest.txt and base pair matrix in oribpmatrix.txt. All pij values will be saved in pijtest.txt.
+
+./ncRNA  -s seq1_out.txt -g grammartest.txt -b oribpmatrix.txt 
+The above command will calculate entropy of the first sequence in seq1_out.txt with grammar in  grammartest.txt and base pair matrix in oribpmatrix.txt. No  pij values will be outputted.
+
+./ncRNA  -s seq1_out.txt -g grammartest.txt -b oribpmatrix.txt -a
+The above command will calculate entropy of all sequences in seq1_out.txt with grammar in  grammartest.txt and base pair matrix in oribpmatrix.txt. No pij values will be outputted.
+

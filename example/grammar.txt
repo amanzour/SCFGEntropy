@@ -1,0 +1,5 @@
+<Start>:a<Start>b<F>  1
+<Start>:<Start>a  1
+<F>:<Start>a  1
+<Start>:a  1
+#

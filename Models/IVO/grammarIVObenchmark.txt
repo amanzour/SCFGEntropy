@@ -1,0 +1,4 @@
+<Start>:a<Start>  0.4702
+<Start>:a<Start>b<Start>  0.2633  
+<Start>:a   0.2665
+#

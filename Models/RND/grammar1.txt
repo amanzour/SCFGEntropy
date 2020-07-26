@@ -1,0 +1,7 @@
+<Start>:a  0.1666667
+<Start>:a<Start>  0.1666667
+<Start>:<Start>a  0.1666667
+<Start>:a<Start>b<Start>  0.1666667
+<Start>:<Start>a<Start>b  0.1666667
+<Start>:a<Start>b  0.1666667
+#
